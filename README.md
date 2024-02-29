@@ -114,7 +114,7 @@ and add either
 0.0.0.0 login.nvgs.nvidia.cn
 ```
 
-to block telemtry, driver, Geforce Experience updates
+to block telemetry, driver, Geforce Experience updates
 
 or
 
