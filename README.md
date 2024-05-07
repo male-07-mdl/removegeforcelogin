@@ -2,7 +2,7 @@
 
 The original Github page by Moyster is gone and while you can still view it using Wayback machine, I decided to create a proper Github page because Wayback doesn't have the files archived themselves.
 
-The original method still works fine as of v3.27.0.120 and most likely will work until the possible end of Geforce Experience. The uploaded app.js is for v3.27.0.120 and can be used to replace the original.
+The original method still works fine as of v3.28.0.412 and most likely will work until the possible end of Geforce Experience.
 
 Credits go to Moyster (and co-contributors Still34, tahubird, hugmouse).
 
